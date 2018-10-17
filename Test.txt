@@ -6,7 +6,7 @@ Git
 Github
 Repository
 Commit
-Push
+Push, Pull
 
 
 Thank you!
