@@ -4,6 +4,9 @@ Hello, Welcome!!!!!
 
 Git
 Github
+Repository
+Commit
+Push, Pull
 
 
 Thank you!
